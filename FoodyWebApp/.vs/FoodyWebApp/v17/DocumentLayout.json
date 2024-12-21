@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MyFirstGitClone\\RegularExam_FrontEndTestAutomation\\FoodyWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B4746F-49A7-4768-A6DE-263E5B0D811F}|FoodyWebApp\\FoodyWebApp.csproj|d:\\myfirstgitclone\\regularexam_frontendtestautomation\\foodywebapp\\foodywebapp\\pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B4746F-49A7-4768-A6DE-263E5B0D811F}|FoodyWebApp\\FoodyWebApp.csproj|solutionrelative:foodywebapp\\pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B4746F-49A7-4768-A6DE-263E5B0D811F}|FoodyWebApp\\FoodyWebApp.csproj|d:\\myfirstgitclone\\regularexam_frontendtestautomation\\foodywebapp\\foodywebapp\\pages\\editfoodpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B4746F-49A7-4768-A6DE-263E5B0D811F}|FoodyWebApp\\FoodyWebApp.csproj|solutionrelative:foodywebapp\\pages\\editfoodpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B4746F-49A7-4768-A6DE-263E5B0D811F}|FoodyWebApp\\FoodyWebApp.csproj|d:\\myfirstgitclone\\regularexam_frontendtestautomation\\foodywebapp\\foodywebapp\\tests\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B4746F-49A7-4768-A6DE-263E5B0D811F}|FoodyWebApp\\FoodyWebApp.csproj|solutionrelative:foodywebapp\\tests\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B4746F-49A7-4768-A6DE-263E5B0D811F}|FoodyWebApp\\FoodyWebApp.csproj|d:\\myfirstgitclone\\regularexam_frontendtestautomation\\foodywebapp\\foodywebapp\\tests\\foodywebapptest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B4746F-49A7-4768-A6DE-263E5B0D811F}|FoodyWebApp\\FoodyWebApp.csproj|solutionrelative:foodywebapp\\tests\\foodywebapptest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B4746F-49A7-4768-A6DE-263E5B0D811F}|FoodyWebApp\\FoodyWebApp.csproj|d:\\myfirstgitclone\\regularexam_frontendtestautomation\\foodywebapp\\foodywebapp\\pages\\addsearchpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B4746F-49A7-4768-A6DE-263E5B0D811F}|FoodyWebApp\\FoodyWebApp.csproj|solutionrelative:foodywebapp\\pages\\addsearchpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BasePage.cs",
+              "DocumentMoniker": "D:\\MyFirstGitClone\\RegularExam_FrontEndTestAutomation\\FoodyWebApp\\FoodyWebApp\\Pages\\BasePage.cs",
+              "RelativeDocumentMoniker": "FoodyWebApp\\Pages\\BasePage.cs",
+              "ToolTip": "D:\\MyFirstGitClone\\RegularExam_FrontEndTestAutomation\\FoodyWebApp\\FoodyWebApp\\Pages\\BasePage.cs",
+              "RelativeToolTip": "FoodyWebApp\\Pages\\BasePage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T10:03:45.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FoodyWebAppTest.cs",
+              "DocumentMoniker": "D:\\MyFirstGitClone\\RegularExam_FrontEndTestAutomation\\FoodyWebApp\\FoodyWebApp\\Tests\\FoodyWebAppTest.cs",
+              "RelativeDocumentMoniker": "FoodyWebApp\\Tests\\FoodyWebAppTest.cs",
+              "ToolTip": "D:\\MyFirstGitClone\\RegularExam_FrontEndTestAutomation\\FoodyWebApp\\FoodyWebApp\\Tests\\FoodyWebAppTest.cs",
+              "RelativeToolTip": "FoodyWebApp\\Tests\\FoodyWebAppTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T10:00:42.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddSearchPage.cs",
+              "DocumentMoniker": "D:\\MyFirstGitClone\\RegularExam_FrontEndTestAutomation\\FoodyWebApp\\FoodyWebApp\\Pages\\AddSearchPage.cs",
+              "RelativeDocumentMoniker": "FoodyWebApp\\Pages\\AddSearchPage.cs",
+              "ToolTip": "D:\\MyFirstGitClone\\RegularExam_FrontEndTestAutomation\\FoodyWebApp\\FoodyWebApp\\Pages\\AddSearchPage.cs",
+              "RelativeToolTip": "FoodyWebApp\\Pages\\AddSearchPage.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T09:31:01.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditFoodPage.cs",
+              "DocumentMoniker": "D:\\MyFirstGitClone\\RegularExam_FrontEndTestAutomation\\FoodyWebApp\\FoodyWebApp\\Pages\\EditFoodPage.cs",
+              "RelativeDocumentMoniker": "FoodyWebApp\\Pages\\EditFoodPage.cs",
+              "ToolTip": "D:\\MyFirstGitClone\\RegularExam_FrontEndTestAutomation\\FoodyWebApp\\FoodyWebApp\\Pages\\EditFoodPage.cs",
+              "RelativeToolTip": "FoodyWebApp\\Pages\\EditFoodPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T08:47:48.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseTest.cs",
+              "DocumentMoniker": "D:\\MyFirstGitClone\\RegularExam_FrontEndTestAutomation\\FoodyWebApp\\FoodyWebApp\\Tests\\BaseTest.cs",
+              "RelativeDocumentMoniker": "FoodyWebApp\\Tests\\BaseTest.cs",
+              "ToolTip": "D:\\MyFirstGitClone\\RegularExam_FrontEndTestAutomation\\FoodyWebApp\\FoodyWebApp\\Tests\\BaseTest.cs",
+              "RelativeToolTip": "FoodyWebApp\\Tests\\BaseTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T07:08:47.638Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 144,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,302 @@
+{
+  "id": "bda430ea-172b-4380-91a3-1cac8b66730e",
+  "version": "2.0",
+  "name": "FoodyWebApp",
+  "url": "http://softuni-qa-loadbalancer-2137572849.eu-north-1.elb.amazonaws.com:85 ",
+  "tests": [{
+    "id": "2a2cf694-a67b-4d34-900c-5945faf8973f",
+    "name": "1.HomePageNavigationTest",
+    "commands": [{
+      "id": "4ea083f9-a1cd-4faf-b86d-95b9154120f6",
+      "comment": "",
+      "command": "open",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "308d0c37-c84e-48fc-bed4-3c267412475b",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1920x1080",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "1dab2af1-e0a2-451d-a1b3-d0dcfefe5e72",
+      "comment": "",
+      "command": "verifyTitle",
+      "target": "Home Page - Foody.WebApp",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "1a9ff2d8-163d-4258-b8dc-6c4b5c8dbcba",
+      "comment": "Sign Up element present",
+      "command": "verifyElementPresent",
+      "target": "//a[text()='Sign Up']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "775ae60b-7f82-472c-9db4-638b2b827fbe",
+      "comment": "Log in element present",
+      "command": "verifyElementPresent",
+      "target": "//a[text()='Log In']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "c5c4855b-74ce-4fdc-b4e7-137a921ec089",
+      "comment": "Learn More element present",
+      "command": "verifyElementPresent",
+      "target": "//a[text()='Learn More']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "3fdc90a4-7a9f-4bd7-b15d-a3c9f9a6e618",
+      "comment": "",
+      "command": "close",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }]
+  }, {
+    "id": "3b24bfb5-ff70-472c-8b0b-fba5d5ef5dc4",
+    "name": "2.LoginInTest",
+    "commands": [{
+      "id": "d500711f-f40a-4ea7-8422-183e14910468",
+      "comment": "",
+      "command": "open",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "4156bb33-c0c9-447f-8827-f1a08cfaed98",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1920x1080",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "317dc3bb-4b17-4f79-a8b4-cad064561662",
+      "comment": "click Log in ",
+      "command": "click",
+      "target": "//a[text()='Log In']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "16f1bfd2-4c4d-4fa0-bf7a-79f50b1b5120",
+      "comment": "input Usename",
+      "command": "type",
+      "target": "//input[@name='Username']",
+      "targets": [],
+      "value": "Ivo007"
+    }, {
+      "id": "940787b0-58b4-4ac7-8b15-1ebed76235e6",
+      "comment": "input Password",
+      "command": "type",
+      "target": "//input[@name='Password']",
+      "targets": [],
+      "value": "123456"
+    }, {
+      "id": "a3de9fbe-c2b6-44f0-8f46-a740d1b25eee",
+      "comment": "click Log in",
+      "command": "click",
+      "target": "//button[@type='submit']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "d79409a5-5f2a-4d7b-9868-92151ce4b2c8",
+      "comment": "Add Food element present",
+      "command": "verifyElementPresent",
+      "target": "//a[text()='Add Food']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "49e85a00-56ff-4c67-99d6-ce2931a73c2a",
+      "comment": "Logout element present",
+      "command": "verifyElementPresent",
+      "target": "//a[text()='Logout']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "1c533966-684b-4d90-be35-7c482bb48abc",
+      "comment": "verify Welcomes message",
+      "command": "verifyText",
+      "target": "//div[@class='container px-5']//h2[@class='masthead-subheading mb-0']",
+      "targets": [],
+      "value": "Welcome, Ivo007!"
+    }, {
+      "id": "6b35e4c5-8bf0-49cf-89f3-f8c3280602ea",
+      "comment": "click Logout",
+      "command": "click",
+      "target": "//a[text()='Logout']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "5f2fbaae-e4d4-4e5e-bbb8-69d50e969058",
+      "comment": "",
+      "command": "verifyText",
+      "target": "//div[@class='container px-5']//h2[@class=\"masthead-subheading mb-0\"]",
+      "targets": [],
+      "value": "Share your homemade or store-bought food with us!"
+    }, {
+      "id": "dd85fb10-ed1a-4e5d-9276-72454ec3f74f",
+      "comment": "Log in element present",
+      "command": "verifyElementPresent",
+      "target": "//a[text()='Log In']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "fa3bc56a-05f8-486c-92ed-a66b2fe49aa1",
+      "comment": "",
+      "command": "close",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }]
+  }, {
+    "id": "3c7f713a-37f5-46bc-a929-03bfd7daf2ad",
+    "name": "3.EditProfileTest",
+    "commands": [{
+      "id": "7224946b-96f8-4fd6-8584-cdc3f639ca14",
+      "comment": "",
+      "command": "open",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "e284aba9-7f29-4b5f-a6b5-cfa621cea1b5",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1920x1080",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "d94717db-6de8-444b-967e-478a49c1fa0c",
+      "comment": "click Log in ",
+      "command": "click",
+      "target": "//a[text()='Log In']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "8c25ea36-73d6-456b-821e-af5528188a0a",
+      "comment": "input Usename",
+      "command": "type",
+      "target": "//input[@name='Username']",
+      "targets": [],
+      "value": "Ivo007"
+    }, {
+      "id": "48215e54-797b-4379-ac6e-33b5b664f1fa",
+      "comment": "input Password",
+      "command": "type",
+      "target": "//input[@name='Password']",
+      "targets": [],
+      "value": "123456"
+    }, {
+      "id": "63700eb5-3ab8-4674-a9fe-0f893e96e182",
+      "comment": "click Log in",
+      "command": "click",
+      "target": "//button[@type='submit']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "317cc30e-2b2c-4cb4-83be-42f3c9db9cba",
+      "comment": "click Profile",
+      "command": "click",
+      "target": "//a[@class='nav-link mx-3']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "835e8613-fd12-4007-984e-aefb3fcf88d9",
+      "comment": "click Edit",
+      "command": "click",
+      "target": "//a[text()='Edit']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "5dfed222-2ac4-4dcc-9bb1-3f377d223e6a",
+      "comment": "edit FirstName",
+      "command": "type",
+      "target": "//input[@name='FirstName']",
+      "targets": [],
+      "value": "Ivan"
+    }, {
+      "id": "95f8e995-16ad-41df-847e-f688068dc579",
+      "comment": "edit MiddleName",
+      "command": "type",
+      "target": "//input[@name='MiddleName']",
+      "targets": [],
+      "value": "Ivanov"
+    }, {
+      "id": "ae76d5fb-42a6-4e1c-b495-8ebdff94d03e",
+      "comment": "edit LastName",
+      "command": "type",
+      "target": "//input[@name='LastName']",
+      "targets": [],
+      "value": "Ivanov"
+    }, {
+      "id": "d00d684c-456b-4f18-9db7-34c5b4a819de",
+      "comment": "edit About",
+      "command": "type",
+      "target": "//input[@name='About']",
+      "targets": [],
+      "value": "edit Profile"
+    }, {
+      "id": "c7faa5ec-2d86-41d2-9f4a-6b7f38192b86",
+      "comment": "click add",
+      "command": "click",
+      "target": "//button[@type='submit']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "9eb86880-4f1a-48cd-a71e-0a389739bd7b",
+      "comment": "",
+      "command": "verifyText",
+      "target": "//*[@id=\"page-top\"]/section/div/div/div[2]/div[1]/div/div[1]/div[2]/p",
+      "targets": [],
+      "value": "Ivan Ivanov Ivanov"
+    }, {
+      "id": "e089d849-6982-4391-85eb-359140f5b034",
+      "comment": "",
+      "command": "verifyText",
+      "target": "//*[@id=\"page-top\"]/section/div/div/div[2]/div[2]/div[1]/div/div/p[2]",
+      "targets": [],
+      "value": "edit Profile"
+    }, {
+      "id": "77b83adc-46eb-462e-9e73-0497354280f3",
+      "comment": "click Logout",
+      "command": "click",
+      "target": "//a[text()='Logout']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "f17e6c3c-e495-4ece-8270-e62f166bff4e",
+      "comment": "",
+      "command": "verifyText",
+      "target": "//div[@class='container px-5']//h2[@class=\"masthead-subheading mb-0\"]",
+      "targets": [],
+      "value": "Share your homemade or store-bought food with us!"
+    }, {
+      "id": "529148fe-2311-424b-b8c4-878f1feffad9",
+      "comment": "Log in element present",
+      "command": "verifyElementPresent",
+      "target": "//a[text()='Log In']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "9f9b3525-1da5-49ca-907b-9f27b803a463",
+      "comment": "",
+      "command": "close",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "d2ddf15f-441e-499e-91d0-d34b65af32ed",
+    "name": "Foody WebAppTest",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["2a2cf694-a67b-4d34-900c-5945faf8973f", "3b24bfb5-ff70-472c-8b0b-fba5d5ef5dc4", "3c7f713a-37f5-46bc-a929-03bfd7daf2ad"]
+  }],
+  "urls": ["http://softuni-qa-loadbalancer-2137572849.eu-north-1.elb.amazonaws.com:85/"],
+  "plugins": []
+}
